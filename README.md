@@ -39,7 +39,7 @@ Next steps: biometric API integration, user onboarding, and backend development.
 
 ## License
 
-MIT (add license file if needed)
+MIT 
 
 ---
 
